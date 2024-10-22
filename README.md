@@ -185,7 +185,5 @@ calcularam previamente.
 de compras feitas pelo cliente;
 - M é o ticket médio, ou seja, a média das
 compras feitas pelo cliente.
-10
-📆 Entrega
-Desafio: Prepare seu dataset para modelagem de dados 8
-📎 Como entregar: Você deverá submeter o link compartilhável do colab!
+
+
