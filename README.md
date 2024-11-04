@@ -1,4 +1,4 @@
-# DNC_MODULE5_PROJECT
+# Modelagem de dados para um ecommerce
 
 ## 🚀 Desafio <br><br>
 Prepare seu dataset para modelagem de dados <br><br>
